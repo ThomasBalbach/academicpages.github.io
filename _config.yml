@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : ""
 title_separator          : "-"
 name                     : &name "Thomas Balbach"
-description              : &description "PhD Candidate, Public Governance Institute, KU Leuven"
+description              : &description "Personal website"
 url                      : https://thomasbalbach.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "thomasbalbach/thomasbalbach.github.io"
