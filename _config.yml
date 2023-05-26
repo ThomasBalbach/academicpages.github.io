@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Thomas Balbach / Site Title"
+title                    : "Thomas Balbach"
 title_separator          : "-"
 name                     : &name "Thomas Balbach"
 description              : &description "PhD Candidate, Public Governance Institute, KU Leuven"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://thomasbalbach.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ThomasBalbach/academicpages.github.io"
+repository               : "thomasbalbach/thomasbalbach.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
